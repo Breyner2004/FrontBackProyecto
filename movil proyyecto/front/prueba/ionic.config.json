@@ -1,0 +1,8 @@
+{
+  "name": "Libreria",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "e90bd170"
+}
